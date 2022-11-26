@@ -11,8 +11,13 @@ module.exports = {
       xl: "1440px",
     },
     extend: {
-      fontFamily: ["Josefin Sans", "sans-serif"],
-      alata: ["Alata"],
+      // Theme Colors
+      colors: {},
+      // All Fonts
+      fontFamily: {
+        sans: ["Josefin Sans", "sans-serif"],
+        alata: ["Alata"],
+      },
     },
   },
   plugins: [],
