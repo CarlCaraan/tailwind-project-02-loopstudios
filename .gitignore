@@ -1,7 +1,7 @@
 /vscode
 .DS_Store
 /node_modules
-/dist
+/dist/assets/css
 
 # ignore code scanning from package-lock
 package-lock.json
